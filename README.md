@@ -61,7 +61,7 @@
 
 | 版本号| Windows | Mac OSX |
 |:----------:|:-------------:|:------:|
-| 2.1.1 正式版   | [走你][2.1.1-win]| [走你][2.1.1-mac] |
+| 2.1.1 正式版   | [走你][2.1.1-win]  | [走你][2.1.1-mac] |
 | 2.1  正式版    | [走你][2.1-win]    | [走你][2.1-mac]   |
 | 2.0  正式版    | [走你][2.0-win]    | [走你][2.0-mac]   |
 
@@ -101,3 +101,59 @@
 | gradle-packer-plugin         | Android多渠道打包工具 |
 | gradle-retrolambda           | 在java 6 7中使用 lambda表达式的插件 |
 
+
+#Android 三方市场一窥
+
+| NAME | URL | INTRODUCE |
+|:----------|:-------------|:-------------|
+|百度地图|[走你](http://lbsyun.baidu.com)|百度地图SDK官方网站|
+|高德地图|[走你](http://lbs.amap.com)|高德地图SDK官方网站|
+|极光|[走你](https://www.jiguang.cn/)|推送&IM|
+|友盟|[走你](http://www.umeng.com/)|友盟统计&友盟分享&运营报告|
+|云巴|[走你](http://yunba.io/)|统计&推送&IM|
+|梆梆安全|[走你](http://www.bangcle.com/)|加固&检测&监测|
+|爱加密|[走你](https://www.ijiami.cn/)|加密&漏洞分析|
+|MTC|[走你](http://mtc.baidu.com/)|百度云测试平台|
+|听云|[走你](http://www.tingyun.com/)|云服务|
+|TESTIN|[走你](http://www.testin.cn/)|兼容性云端测试平台（总部在四惠）|
+|Bugly|[走你](https://bugly.qq.com/)|日志和Crash采集|
+|支付宝|[走你](https://open.alipay.com)|支付宝的开放平台|
+|银联开发平台|[走你](http://mobile.unionpay.com/)|银联SDK|
+|APICloud柚子科技|[走你](http://www.apicloud.com/)| 跨平台方案供应商 |
+|数字天堂|[走你](http://www.dcloud.io/)| 跨平台方案供应商&Hbuild版权所有 |
+|起步科技|[走你](http://www.wex5.com/)| 跨平台方案供应商&响应式网站供应商 |
+|正益无线|[走你](http://www.appcan.cn/)|跨平台方案供应商&AppCan维护团队|
+|IONIC|[走你](http://www.ionic.wang/)|基于cordova的开源的跨平台解决方案|
+
+
+
+#Android 三方供应商网站
+
+| NAME | URL | INTRODUCE |
+|:----------|:-------------|:-------------|
+|百度地图|[走你](http://lbsyun.baidu.com)|百度地图SDK官方网站|
+|高德地图|[走你](http://lbs.amap.com)|高德地图SDK官方网站|
+|极光|[走你](https://www.jiguang.cn/)|推送&IM|
+|友盟|[走你](http://www.umeng.com/)|友盟统计&友盟分享&运营报告|
+|云巴|[走你](http://yunba.io/)|统计&推送&IM|
+|梆梆安全|[走你](http://www.bangcle.com/)|加固&检测&监测|
+|爱加密|[走你](https://www.ijiami.cn/)|加密&漏洞分析|
+|MTC|[走你](http://mtc.baidu.com/)|百度云测试平台|
+|听云|[走你](http://www.tingyun.com/)|云服务|
+|TESTIN|[走你](http://www.testin.cn/)|兼容性云端测试平台（总部在四惠）|
+|Bugly|[走你](https://bugly.qq.com/)|日志和Crash采集|
+|支付宝|[走你](https://open.alipay.com)|支付宝的开放平台|
+|银联开发平台|[走你](http://mobile.unionpay.com/)|银联SDK|
+|柚子科技|[走你](http://www.apicloud.com/)| 跨平台方案供应商 |
+|数字天堂|[走你](http://www.dcloud.io/)| 跨平台方案供应商&Hbuild版权所有 |
+|起步科技|[走你](http://www.wex5.com/)| 跨平台方案供应商&响应式网站供应商 |
+|正益无线|[走你](http://www.appcan.cn/)|跨平台方案供应商&AppCan维护团队|
+|IONIC|[走你](http://www.ionic.wang/)|基于cordova的开源的跨平台解决方案|
+
+
+#优秀IDE
+
+| NAME | Windows | Mac OSX | INTRODUCE |
+|:----------|:-------------|:-------------|:-------------|
+|Hbuild|YES|YES|前端代码编写的工具|
+|Coda2||YES|多功能的编写工具，支付FTP，SFTP等功能|
