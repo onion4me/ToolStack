@@ -154,6 +154,22 @@
 #优秀IDE
 
 | NAME | Windows | Mac OSX | INTRODUCE |
-|:----------|:-------------|:-------------|:-------------|
+|:----------|:-------------:|:-------------:|:-------------|
 |Hbuild|YES|YES|前端代码编写的工具|
 |Coda2||YES|多功能的编写工具，支付FTP，SFTP等功能|
+|Secure Shell Client|YES||Linux服务器远程登录客户端|
+|Notepad++|YES||多功能文本编辑|
+
+# UML相关工具
+
+| NAME | URL | INTRODUCE |
+|:----------|:-------------:|:-------------|
+|Axure RP pro |[走你][AXUREURL]|产品经理用的比较多，做交互设计为主，也可能做流程|
+|VISIO|[走你][VISIOURL]|微软研发的一款做思维导图的工具，很不错|
+|XMind|[走你][XMINDURL]|做树状图的一个工具，可以做提纲用|
+|Mindmanager|[走你][MINDMANAGERURL]|思维导图工具|
+
+[AXUREURL]:http://rj.baidu.com/soft/detail/15574.html?ald
+[VISIOURL]:http://baike.baidu.com/link?url=cf4qPV2r_8HTEATPVz_aaJjuw2M9RJvoIo02Gdqy_5T3lym3Fi1EJmYoLSYXQkfF4DJTYsMtYZXsXnz-DkFDDG3xdpKE-Vc45-yYLquETDta5yTbSVuysB_dRfboHN33lJ2e4MONGFU0jMOyrz9HsK
+[XMINDURL]:http://www.xmindchina.net
+[MINDMANAGERURL]:http://www.mindmanager.cc/
