@@ -1,12 +1,41 @@
-货铺
+杂货铺
 =================
 ---
 
-### 资源声明:以下资源部分来源网络，如有版权问题，请及时联系
+### 资源声明:版权所有，允许合法合理传播
 
 
 > 不断完善更新，欢迎各路豪杰补充
 
+
+#Android 名人堂
+
+| 作者 | GITHUB | BLOG | 可撩指数 |
+|:----------:|:-------------:|:------:|
+| 阮皓 | [走你][MR1] | | -100000|
+
+[MR1]:https://github.com/RUANHAOANDROID
+
+#Android 技术要点剖析
+
+| 要点 | 作者 | URL |
+|:----------:|:-------------:|:------:|
+
+[MAINPOINTS1]:
+[MAINPOINTS2]:
+[MAINPOINTS3]:
+
+#Android 技术博文分享
+| 要点 | 作者 | URL |
+|:----------:|:-------------:|:------:|
+| Linux初探之VI编辑器使用    | 洋葱先生 |[走你][BLOG1]  |
+| 商业项目日志使用技巧       | 洋葱先生 |[走你][BLOG2]  |
+| 商业项目注释使用要领       | 洋葱先生 |[走你][BLOG3]  |
+
+
+[BLOG1]:http://blog.csdn.net/everconfig/article/details/45914159
+[BLOG2]:http://blog.csdn.net/everconfig/article/details/45649971
+[BLOG3]:http://blog.csdn.net/everconfig/article/details/45646427
 
 #JDK
 
@@ -159,6 +188,7 @@
 |Coda2||YES|多功能的编写工具，支付FTP，SFTP等功能|
 |Secure Shell Client|YES||Linux服务器远程登录客户端|
 |Notepad++|YES||多功能文本编辑|
+|Sublime text|YES|YES|功能比较强大的全能编辑器|
 
 # UML相关工具
 
