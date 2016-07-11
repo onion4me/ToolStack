@@ -123,14 +123,40 @@
 
 
 #Android 三方市场一窥
+> 上架三方市场有这样一个事情需要注意:第一次商家，平台一般会提供首发福利，优先做推荐，所以新产品上架，要好好珍惜第一次的推荐。
 
 | NAME | URL | INTRODUCE |
-|:----------|:-------------|:-------------|
-|安卓市场|[走你][SFSC1]|比较老的一个应用市场|
+|:--------|:----------|:--------|
+|安卓市场|[走你][SFSC1]|暂无备注信息|
+|360手机助手|[走你][SFSC2]|暂无备注信息|
+|百度手机助手|[走你][SFSC3]|暂无备注信息|
+|应用宝|[走你][SFSC4]|如果要想微信识别你的二维码,APP必须在应用包上线|
+|豌豆荚|[走你][SFSC5]|暂无备注信息|
+|小米应用商店|[走你][SFSC6]|小米手机内置|
+|华为应用商店|[走你][SFSC7]|华为手机内置|
+|乐商店|[走你][SFSC8]|联想手机内置|
+|91市场|[走你][SFSC9]|暂无备注信息|
+|淘宝手机助手|[走你][SFSC10]|暂无备注信息|
+|安智市场|[走你][SFSC11]|暂无备注信息|
+|移动MM市场|[走你][SFSC12]|暂无备注信息|
+|魅族应用商店|[走你][SFSC13]|魅族手机内置|
+|三星应用商店|[走你][SFSC14]|三星手机内置|
 
 
 [SFSC1]:http://apk.hiapk.com/
-
+[SFSC2]:http://zhushou.360.cn/
+[SFSC3]:http://shouji.baidu.com/
+[SFSC4]:http://android.myapp.com/
+[SFSC5]:https://www.wandoujia.com/
+[SFSC6]:http://app.xiaomi.com/
+[SFSC7]:http://appstore.huawei.com/
+[SFSC8]:http://www.lenovomm.com/
+[SFSC9]:http://market.91.com/
+[SFSC10]:http://app.taobao.com
+[SFSC11]:http://www.anzhi.com/
+[SFSC12]:http://mm.10086.cn/
+[SFSC13]:http://app.meizu.com/
+[SFSC14]:http://www.samsung.com/cn/apps/mobile/galaxyapps/
 
 #Android 三方供应商网站
 
