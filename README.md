@@ -122,6 +122,143 @@
 | gradle-retrolambda           | 在java 6 7中使用 lambda表达式的插件 |
 
 
+
+
+# Android 开源框架集合
+
+## 网络交互
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Okttp | NONE |传输层单独基于socket进行了封装|
+| Volley | NONE |根据平台版本动态调用客户端|
+| Android-Async-Http | NONE | 年纪比较大的异步网络请求框架 |
+| Retrofit | NONE | 传输层是okhttp，服务器需要遵循restful规范 |
+
+[NET1]:WW.BAIDU.COM
+[NET2]:www/baidy
+[NET3]:WW.BAIDU.COM
+[NET4]:www/baidy
+
+## 图片加载
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Universal Image Loader | NONE |图片异步加载|
+| Fresco | [走你][IMG2] |根据平台版本动态调用客户端|
+| Glide| NONE |google推荐的图片加载框架，依赖v4包 |
+| Picasso | NONE | 传输层是okhttp，服务器需要遵循restful规范 |
+
+[IMG1]:WW.BAIDU.COM
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+[IMG4]:http://www.fresco-cn.org/
+
+## 依赖注入
+
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| ButterKnife | NONE | NONE |
+| Dagger | NONE | NONE |
+| Android Annotations| NONE | NONE |
+| Roboguice | NONE | NONE |
+
+[IMG1]:WW.BAIDU.COM
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+[IMG4]:http://www.fresco-cn.org/
+
+## Json解析
+
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Gson | NONE | NONE |
+| Fastjson | NONE | NONE |
+| Jackson Annotations| NONE | NONE |
+
+[IMG1]:WW.BAIDU.COM
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## Protocol Buffers
+
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Wire | NONE | 性能不如Protobuf |
+| Protobuf | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 开源ORM框架
+
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| GreenDao | NONE | NONE |
+| OrmLite | NONE | NONE |
+| SugarORM | NONE | NONE |
+| Active Android | NONE | NONE |
+| Realm | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 事件总线
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| EventBus | NONE | NONE |
+| OTTO | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 热修复
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Andfix | NONE | NONE |
+| Dexposed | NONE | NONE |
+| Nuwa | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 插件方案
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| Droidplugin | NONE | NONE |
+| Dynamic-Load-Apk | NONE | NONE |
+| DynamicAPK | NONE | NONE |
+| Pluginmgr | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 二维码条码生成识别
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| zxing | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+
+## 跨平台框架
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| react-native | NONE | NONE |
+| ionic | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+## 响应式编程
+| NAME | URL | CONTENT |
+|:--------|:----------|:----------|
+| RxJava | NONE | NONE |
+| RxAndroid | NONE | NONE |
+
+[IMG2]:http://www.fresco-cn.org/
+[IMG3]:http://www.fresco-cn.org/
+
+
 #Android 三方市场一窥
 > 上架三方市场有这样一个事情需要注意:第一次商家，平台一般会提供首发福利，优先做推荐，所以新产品上架，要好好珍惜第一次的推荐。
 
@@ -180,6 +317,9 @@
 |起步科技|[走你](http://www.wex5.com/)| 跨平台方案供应商&响应式网站供应商 |
 |正益无线|[走你](http://www.appcan.cn/)|跨平台方案供应商&AppCan维护团队|
 |IONIC|[走你](http://www.ionic.wang/)|基于cordova的开源的跨平台解决方案|
+|融云|[走你](http://www.rongcloud.cn/) | IM通讯方案供应商 |
+|环信|[走你](http://www.easemob.com/)| IM通讯方案供应商 |
+|AVOS|[走你](https://www.leancloud.cn/)| IM通讯方案供应商 |
 
 
 #优秀IDE
