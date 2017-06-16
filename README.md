@@ -9,25 +9,6 @@
 
 
 #Coding Monkey
-
-| 作者 | GITHUB | BLOG | 可撩指数 | 概述 |
-|:----------:|:-------------:|:------:|:------:|:------:|
-| 阮皓 | [走你][MR1] | | -1000 |代码搬运工|
-
-[MR1]:https://github.com/RUANHAOANDROID
-
-#Android 技术要点剖析
-| 要点 | 作者 | URL |
-|:----------:|:-------------:|:------:|
-| Linux初探之VI编辑器使用    | 洋葱先生 |[走你][BLOG1]  |
-| 商业项目日志使用技巧       | 洋葱先生 |[走你][BLOG2]  |
-| 商业项目注释使用要领       | 洋葱先生 |[走你][BLOG3]  |
-
-
-[BLOG1]:http://blog.csdn.net/everconfig/article/details/45914159
-[BLOG2]:http://blog.csdn.net/everconfig/article/details/45649971
-[BLOG3]:http://blog.csdn.net/everconfig/article/details/45646427
-
 #JDK
 
 
